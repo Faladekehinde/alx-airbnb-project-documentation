@@ -49,8 +49,6 @@ This document outlines the technical and functional requirements for key backend
 
 - Rate limit: max 10 login attempts/minute
 
-Here’s a **unique and reworded version** of the content you provided, preserving all technical details but rephrased for originality and clarity:
-
 ---
 
 ## 🏠 2. Property Management
@@ -71,10 +69,10 @@ Here’s a **unique and reworded version** of the content you provided, preservi
 
 ```json
 {
-  "title": "Quillox",
-  "location": "VI Lagos",
-  "price": 4550,
-  "amenities": ["club", "lounge", "air conditioning"]
+  "title": "Mohit",
+  "location": "Abule Egba",
+  "price": 5000,
+  "amenities": ["club", "lounge", "Gaming center" "air conditioning"]
 }
 ```
 
@@ -192,7 +190,7 @@ Here’s a **unique and reworded version** of the content you provided, preservi
 {
   "bookingId": 12,
   "paymentMethodId": "pm_xxx",
-  "amount": 450.00
+  "amount": 5000.00
 }
 ```
 
@@ -234,7 +232,7 @@ Here’s a **unique and reworded version** of the content you provided, preservi
 {
   "bookingId": 12,
   "rating": 4,
-  "comment": "Great place!"
+  "comment": "Very good place!"
 }
 ```
 
@@ -242,7 +240,7 @@ Here’s a **unique and reworded version** of the content you provided, preservi
 
 ```json
 {
-  "reviewId": 20,
+  "reviewId": 15,
   "message": "Review successfully posted"
 }
 ```
